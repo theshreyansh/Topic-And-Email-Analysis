@@ -1,2 +1,5 @@
-# Topic-And-Email-Analysis
-Automated email classification and topic analysis
+# Automated email classification and topic analysis
+<p>Domain: Finance & Risk Analytics</p>
+<p>Skills: Decision Trees, Logistic Regression, Neural Networks, Random Forest, Sentiment Analysis</p>
+<p>Description: <li>This study aims to improve the manually defined rule based algorithm, by using machine learning. The proposed model should have higher F1-score and classification rate. Integrating or migrating from a manually defined rule based model to a machine learning model should also reduce the administrative and maintenance work. It should also make the model more flexible. Methods. The team conducts several experiments to test the performance of several common machine learning algorithms for, • Classification of products • Classification of product-sub product combination • Binary classification of monetary relief provided for complaints • Sentiment analysis • Topic Modelling.</li>
+<li>In this project, we address the issue of cost and time spent in classifying the complaints. The Random forest model for product classification and further monetary-relief classification would be useful to reduce time, energy and cost involved. We also explored the problem areas with topic modelling</li></p>
